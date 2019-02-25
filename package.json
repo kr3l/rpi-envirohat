@@ -1,0 +1,16 @@
+{
+    "name": "rpi-envirohat",
+    "version":"0.0.1",
+    "author": "Karel Braeckman",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/karelbraeckman/rpi-envirohat.git"
+    },
+    "main": "src/index.js",
+    "devDependencies": {},
+    "dependencies": {
+        "raspi-i2c": "6.2.1",
+        "raspi-kit-ads1x15": "1.0.0",
+        "pigpio": "^1.2.1"
+    }
+}
